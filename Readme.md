@@ -2,7 +2,7 @@
 
 # Une intelligence artificielle qui apprend dans unity
 
-Ce dépôt contient les ressources et le projet unity developpé dans la vidéo "Une intelligence artificielle prend le contrôle de mon jeu (Tutoriel complet Unity ml-agent)".
+Ce dépôt contient les ressources et le projet unity developpé dans la vidéo [Une intelligence artificielle prend le contrôle de mon jeu :O (tuto complet unity ml-agents)](https://youtu.be/qJ4StdHZfgg).
 
 ## Requis
 
